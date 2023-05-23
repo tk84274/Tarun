@@ -19,12 +19,12 @@
 
 <h3 align="left"> Connect me via:</h3>
 <a href="https://www.linkedin.com/in/tarun-kumar-ba3561183/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="linkedin" align="center"></a>
-
+<!--
 <p align="center">
 <img src="dev.gif" height="300" width="400" alt="gif" >
 </p>
 <h3 align="left"> Github Stats:</h3>
- <!--
+ 
  ![Subhangini github activity graph](https://activity-graph.herokuapp.com/graph?username=Subhangini&theme=xcode)
 -->
 <a href="#">
