@@ -1,11 +1,11 @@
  
  ![](Banner.gif)
- ## Hello! Subhangini here👋
+ ## Hello! Tarun here👋
 - 📝 Currently pursuing **BTech.CSE** from **Punjab Technical University , Jalandhar**
 - 🔭 Currently working on **My Portfolio**
 - 🌱 Currently learning about **Open Source**
 - 👯 Looking to collaborate *on open source projects* 
-- 😄 Pronouns: Her/She
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact:I will find it soon 😁
 
 
@@ -18,25 +18,25 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 
 <h3 align="left"> Connect me via:</h3>
-<a href="https://www.linkedin.com/in/subhangini/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="linkedin" align="center"></a>
+<a href="https://www.linkedin.com/in/tarun-kumar-ba3561183/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="linkedin" align="center"></a>
 
 <p align="center">
 <img src="dev.gif" height="300" width="400" alt="gif" >
 </p>
 <h3 align="left"> Github Stats:</h3>
- 
+ <!--
  ![Subhangini github activity graph](https://activity-graph.herokuapp.com/graph?username=Subhangini&theme=xcode)
-
+-->
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Subhangini&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 <a />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhangini&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhangini&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)-->
 
 
-<h3 align="left"> 🔥 My contribution streak:</h3>
+<!--<h3 align="left"> 🔥 My contribution streak:</h3>
 <p align="center">
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhangini&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
-</p>
+</p>-->
